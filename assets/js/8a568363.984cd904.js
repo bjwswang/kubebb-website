@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6537],{5519:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/kubebb-website/blog/tags/hola","allTagsPath":"/kubebb-website/blog/tags","count":1}')}}]);
